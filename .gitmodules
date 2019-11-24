@@ -4,8 +4,6 @@
 [submodule "submodules/incubator-datasketches-memory"]
 	path = submodules/incubator-datasketches-memory
 	url = https://github.com/apache/incubator-datasketches-characterization
-	branch = 1.1.X-incubating
 [submodule "submodules/incubator-datasketches-java"]
 	path = submodules/incubator-datasketches-java
 	url = https://github.com/apache/incubator-datasketches-characterization
-	branch = 1.1.X-incubating
