@@ -1,5 +1,5 @@
-#git submodule update --init \
-#&& \
+git submodule update --init \
+&& \
 cd submodules/incubator-datasketches-memory \
 && \
 mvn clean install -DskipTests=true \
