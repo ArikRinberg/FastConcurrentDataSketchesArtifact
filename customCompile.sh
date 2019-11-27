@@ -17,4 +17,3 @@ cd ../ \
 cp incubator-datasketches-*/target/*incubating.jar incubator-datasketches-characterization/target/*SNAPSHOT.jar .. \
 && \
 cd ../
-
